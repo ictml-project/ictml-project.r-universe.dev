@@ -1,0 +1,44 @@
+[
+    {
+        "package": "rtemis",
+        "url": "https://github.com/egenn/rtemis"
+    },
+    {
+        "package": "rtemisbio",
+        "url": "https://github.com/egenn/rtemisbio"
+    },
+    
+    {
+        "package": "sl3",
+        "url": "https://github.com/tlverse/sl3"
+    },
+    {
+        "package": "tlverse",
+        "url": "https://github.com/tlverse/tlverse"
+    },
+    {
+        "package": "tml3",
+        "url": "https://github.com/tlverse/tml3"
+    },
+    {
+        "package": "tmle3mediate",
+        "url": "https://github.com/tlverse/tmle3mediate"
+    },
+    {
+        "package": "tmle3mopttx",
+        "url": "https://github.com/tlverse/tmle3mopttx"
+    },
+    {
+        "package": "tmle3shift",
+        "url": "https://github.com/tlverse/tmle3shift"
+    },
+    
+    {
+        "package": "medoutcon",
+        "url": "https://github.com/nhejazi/medoutcon"
+    },
+    {
+        "package": "medshift",
+        "url": "https://github.com/nhejazi/medshift"
+    }
+]
