@@ -40,5 +40,9 @@
     {
         "package": "medshift",
         "url": "https://github.com/nhejazi/medshift"
+    },
+    {
+        "package": "ictml",
+        "url": "https://github.com/ictml-project/ictml"
     }
 ]
