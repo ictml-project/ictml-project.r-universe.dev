@@ -4,7 +4,7 @@
         "url": "https://github.com/rtemis-org/rtemis"
     },
     {
-        "package": "rtemisbio",
+        "package": "rtemis.bio",
         "url": "https://github.com/rtemis-org/rtemis.bio"
     },  
     {
